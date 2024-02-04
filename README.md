@@ -2,6 +2,8 @@
 
 I'm a **Staff Software Engineer** working at [Visa Inc.](https://www.visa.co.in/). My day to day work revolves around building distributed systems for various interesting problems and deploying them to production, at scale. I love sharing my knowledge on the web.
 
+> For my other projects, see my other GitHub account - [ani03sha](https://github.com/ani03sha)
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
