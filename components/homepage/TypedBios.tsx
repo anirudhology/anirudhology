@@ -19,7 +19,7 @@ const TypedBios = () => {
     }, []);
 
     return (
-        <div>
+        <div className="ml-8">
             <ul id="bios" className="hidden">
                 <li>
                     Known as <b className="font-medium">Anirudh</b> at work.

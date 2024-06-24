@@ -61,7 +61,7 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
                         <TypedBios />
                         <ShortDescription />
                         <BlogLinks />
-                        <p className="mt-3 flex">
+                        <p className="m-8 flex">
                             <span className="mr-2">Happy reading</span>
                             <Twemoji emoji="clinking-beer-mugs" />
                         </p>
