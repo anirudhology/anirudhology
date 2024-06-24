@@ -1,4 +1,4 @@
-import { Outfit, Fira_Code } from '@next/font/google';
+import { Fira_Code } from '@next/font/google';
 
 import SectionContainer from './SectionContainer';
 import Footer from './Footer';
