@@ -11,7 +11,7 @@ const siteMetadata = {
     theme: 'system',
     siteUrl: 'https://anirudhology.com',
     analyticsURL: 'https://cloud.umami.is/share/rkdATkUXEaZKwhuG/anirudhology.com',
-    siteRepo: 'https://github.com/anirudhology/anirudhology.com',
+    siteRepo: 'https://github.com/anirudhology/anirudhology',
     siteLogo: '/static/images/avatar.jpg',
     image: '/static/images/avatar.jpg',
     socialBanner: '',
